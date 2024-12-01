@@ -16,4 +16,4 @@
 
 # Reference:
 - [Learn Flink: Hands-on Training](https://nightlies.apache.org/flink/flink-docs-release-1.18/docs/learn-flink/overview/)
-- [Apache Flink Training Excercises](https://github.com/apache/flink-training)
+- [Apache Flink Training Excercises, The Github repository](https://github.com/apache/flink-training)
